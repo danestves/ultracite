@@ -1,3 +1,9 @@
+## 7.4.1
+
+### Patch Changes
+
+- f78c934: Redesign Agents initialization
+
 ## 7.4.0
 
 ### Minor Changes
